@@ -1,6 +1,6 @@
 {
   "name": "aphrodite-style",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Transform aphrodite stylesheet for prop `style`.",
   "main": "lib/index.js",
   "scripts": {
